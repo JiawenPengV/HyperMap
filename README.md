@@ -1,2 +1,4 @@
-Please complete all your project development in this directory and 
-its subdirectories (which you may create as neeeded).
+HyperMap is a location-based event recommendation system 
+which is built by React and Django.
+
+URL:https://hypermap-cmu.appspot.com
