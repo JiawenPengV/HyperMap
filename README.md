@@ -50,8 +50,8 @@ login page
 register page
 ![](https://github.com/Jiawenjiang/HyperMap/raw/master/demoPics/register.png)
 main page
-![](https://github.com/Jiawenjiang/HyperMap/raw/master/demoPics/mainPage.png)
-![](https://github.com/Jiawenjiang/HyperMap/raw/master/demoPics/mainPage2.png)
+![](https://github.com/Jiawenjiang/HyperMap/raw/master/demoPics/mainpage.png)
+![](https://github.com/Jiawenjiang/HyperMap/raw/master/demoPics/mainpage2.png)
 group page
 ![](https://github.com/Jiawenjiang/HyperMap/raw/master/demoPics/group.png)
 created page
